@@ -96,8 +96,6 @@ Egyption Talking head with accurate facial expression and lip sync**
     <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
 </div>
 
-### CI/CD VCS
-
 ### DESIGN
 <div align="left">
     <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
