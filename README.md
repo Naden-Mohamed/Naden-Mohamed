@@ -9,6 +9,9 @@
 </div>
 
 ---
+I’m a passionate Junior AI Engineer with a strong focus on NLP, LLMs & RAG, and AI Agents. I love building intelligent systems that bridge technology and people such as AI-powered chatbots and agents.
+I’m driven to keep learning, experimenting, and contributing to impactful AI solutions, with a long-term goal of becoming a skilled AI Engineer ready to tackle global challenges.
+Always open to collaborations, opportunities, and knowledge sharing in AI field.
 
 - 🔭 I'm currently working on **Arabic AI Agent connected to Whatsapp using MCP - 
 Egyption Talking head with accurate facial expression and lip sync**
@@ -20,7 +23,9 @@ Egyption Talking head with accurate facial expression and lip sync**
 - 📫 How to reach me **nm1599481@gmail.com**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1zJKUNiie6pt-HUaE5UgATNw9k0gH7IOC/view?usp=sharing](https://drive.google.com/file/d/1zJKUNiie6pt-HUaE5UgATNw9k0gH7IOC/view?usp=sharing)**
+  
 ---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/Naden Mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Naden Mohamed" height="30" width="40" /></a>
