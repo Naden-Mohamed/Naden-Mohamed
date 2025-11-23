@@ -1,6 +1,14 @@
-# Hi 👋, I'm Naden Mohamed Yassen.
+<h1 align="center">Hello, I'm Abdelrahmen Elashry</h1>
+<h3 align="center">AI Engineer | Gen AI Enthusiast</h3>
 
-### A passionate AI Engineer
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadenmohamed/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](mailto:nm1599481@gmail.com)
+
+</div>
+
+---
 
 - 🔭 I'm currently working on **Arabic AI Agent using MCP - 
 Egyption Talking head with accurate facial expression and lip sync**
