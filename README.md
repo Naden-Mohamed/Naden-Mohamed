@@ -1,4 +1,4 @@
-# Hi 👋, I'm Naden Mohamed Yassen Mohamed Abd Abd Alsalam
+# Hi 👋, I'm Naden Mohamed Yassen.
 
 ### A passionate AI Engineer
 
